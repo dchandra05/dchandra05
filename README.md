@@ -29,7 +29,7 @@ I'm currently working on several exciting projects—stay tuned for updates!
 ## 📫 Get in Touch
 
 - **Email:** [dustin.chandra05@gmail.com](mailto:dustin.chandra05@gmail.com)
-- **LinkedIn:** [linkedin.com/dustinchandra](https://linkedin.com/dustinchandra)
+- **LinkedIn:** [linkedin.com/in/dustinchandra](https://linkedin.com/in/dustinchandra)
 
 ---
 
