@@ -22,7 +22,8 @@ I'm a passionate developer from Farmington Hills, Michigan, currently studying *
 
 ## 🚀 Projects
 
-I'm currently working on several exciting projects—stay tuned for updates!
+All my projects are available right here in my repositories section!
+[https://github.com/dchandra05?tab=repositories]
 
 ---
 
