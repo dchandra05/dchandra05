@@ -38,4 +38,4 @@ All my projects are available right here in my repositories section!
 
 ---
 
-> “It's not that I'm so smart, it's just that I stay with problems longer." -  Albert Einstein
+> "Everything happens for a reason."
