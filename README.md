@@ -1,4 +1,4 @@
-# Hi there, I'm Dustin Chandra! 👋
+# Hi, I'm Dustin Chandra!
 
 I'm a passionate developer from Farmington Hills, Michigan, currently studying **Computer Engineering** at Michigan State University with a focus on **AI and Machine Learning**.
 
