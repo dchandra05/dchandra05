@@ -15,7 +15,7 @@ I'm a passionate developer from Farmington Hills, Michigan, currently studying *
 
 ## 🛠️ Skills
 
-- **Languages:** Python, C++, JavaScript
+- **Languages:** Python, C++, Java
 - **Interests:** Artificial Intelligence, Machine Learning, Software Development
 
 ---
